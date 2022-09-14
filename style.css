@@ -1,0 +1,23 @@
+body{
+    background-image: url(../multimedia/imagen/imagen.png);
+   background-repeat: no-repeat;
+   background-color: #cccccc;
+   background-position: center;
+
+}
+
+header {
+   text-align: center;
+
+}
+
+section{  
+    text-align: center;
+    
+}
+
+.field {
+    background-image: linear-gradient(to right, #d7d2cc 0%, #304352 100%);
+   width: 199px;
+   margin: auto;
+}
